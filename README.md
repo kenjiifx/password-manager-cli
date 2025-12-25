@@ -1,4 +1,4 @@
-\# Password Manager (CLI Tool)
+**Password Manager (CLI Tool)**
 
 
 
@@ -14,8 +14,8 @@ and secure file handling.
 
 
 
-\## 🔐 Features
-
+**🔐 Features
+**
 
 
 \- Store and retrieve credentials from the terminal
@@ -34,8 +34,8 @@ and secure file handling.
 
 
 
-\## 🛠 Tech Stack
-
+**🛠 Tech Stack
+**
 
 
 \- \*\*Language:\*\* C  
@@ -52,7 +52,7 @@ and secure file handling.
 
 
 
-\## 📁 Project Structure
+**📁 Project Structure**
 
 
 
@@ -77,4 +77,5 @@ pwd\_mngr/
 ├── passwords.dat # Encrypted credential store
 
 └── README.md
+
 
